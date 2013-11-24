@@ -1,10 +1,10 @@
-# Extract, Transform and Load
+# Extract, Transform and Load - ETL
 
-*Não use em produção*
+*NÃO USE EM PRODUÇÃO*
 
 Teste de conceito da implementação de um ETL simples em Ruby.
 
-Lê os dados da tabela customer no banco 'db1'; adiciona o campo country as linhas do retornadas; carrega a tabela customer no banco 'db2'
+Lê os dados da tabela customer no banco 'db1'; adiciona o campo country as linhas retornadas; carrega a tabela customer no banco 'db2'
 
 ## Possíveis melhorias:
 - Extrair o conteúdo dos métodos extract, transform e load para classes separadas;
